@@ -3,7 +3,7 @@ package ocp
 import "fmt"
 
 func Run() {
-	fmt.Println()
+	fmt.Println("---------------------------------------------------------------------------------------------------------------------------------------")
 	fmt.Println("Run OCP (Open Closed Principle)")
 	messageTemplateCompetition := MessageTemplateCompetition{}
 	message := &Message{
