@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"github.com/akshay237/solidprinciples_in_go/dip"
 	"github.com/akshay237/solidprinciples_in_go/isp"
 	"github.com/akshay237/solidprinciples_in_go/lsp"
 	"github.com/akshay237/solidprinciples_in_go/ocp"
@@ -15,4 +16,5 @@ func main() {
 	ocp.Run()
 	lsp.Run()
 	isp.Run()
+	dip.Run()
 }

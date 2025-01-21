@@ -1,4 +1,4 @@
-## Dependency Injection Principle
+## Dependency Inversion Principle
 * The DIP states that high level modules should not depend on low level modules but should depend on abstractions.
 * This principle promotes loose coupling between components, making the code more maintainable and testable.
 
